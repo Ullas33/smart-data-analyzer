@@ -126,7 +126,7 @@ smart-data-analyzer/
 
 ---
 
-## 📌 Sample Datasets to Try
+##  Sample Datasets to Try
 
 You can test this app with any of these free datasets:
 
