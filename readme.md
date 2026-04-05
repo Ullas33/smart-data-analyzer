@@ -134,19 +134,3 @@ You can test this app with any of these free datasets:
 - [Titanic Dataset](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
 - [Tips Dataset](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv)
 
-Download any as a `.csv` and upload directly into the app.
-
----
-
-## 📚 Assignment Info
-
-- **Type:** Weekly Project
-- **Subject:** Python / Data Science / Math
-- **Concepts:** Statistics, Probability, Linear Algebra (Vectors)
-- **Tools:** Streamlit, Pandas, NumPy, Matplotlib, SciPy
-
----
-
-## 📄 License
-
-This project is open source and free to use for educational purposes.
